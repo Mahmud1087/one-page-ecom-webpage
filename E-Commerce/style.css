@@ -1,0 +1,50 @@
+.navLists ul li a {
+    color: black;
+    transition: all 0.3s ease-in-out;
+    padding: 8px;
+}
+
+.navLists ul li a:hover {
+    background-color: black;
+    color: white;
+}
+
+.items .box {
+    width: 400px;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+}
+
+.items .box img {
+    width: 370px;
+}
+
+section#about {
+    background-color: #f7f6f6;
+}
+
+section#contact a i {
+    font-size: 20px;
+}
+
+section#contact .container p a {
+    color: #f7f6f6;
+}
+
+section#contact .container p {
+    transition: all 0.3s ease-in-out;
+}
+
+section#contact .container p:hover {
+    transform: translateX(-10px);
+}
+
+section#contact .container p a:hover {
+    color: #1877f2;
+    transform: translateX(-10px);
+}
+
+img {
+    overflow: hidden;
+}
