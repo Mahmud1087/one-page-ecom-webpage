@@ -8,3 +8,7 @@ This project is a one simple e-commerce bag website practice project with some r
 * git
 * Bootstrap
 
+
+## You can view the live webpage here:
+
+https://bag-ecommerce.netlify.app/
